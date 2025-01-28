@@ -72,7 +72,7 @@ function Cadastro() {
                 />
               </div>
 
-              <div className="flex flow-row w-full justify-between gap-6">
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div className="w-full">
                   <label className="block text-sm font-medium text-gray-700 mb-1">
                     Departamento
