@@ -18,7 +18,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center text-gray-600">
                 <Mail className="h-5 w-5 mr-2" />
-                <span>contato@hrsolutions.com</span>
+                <span>contato@conectarh.com</span>
               </div>
               <div className="flex items-center text-gray-600">
                 <MapPin className="h-5 w-5 mr-2" />
@@ -69,7 +69,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold text-black mb-4">
               Redes Sociais
             </h3>
-            <a href="#" className="hover:text-blue-400 transition-colors">
+            <a href="https://github.com/Projeto-Integrador-grupo-4-Modelo/rh-frontend" className="hover:text-blue-400 transition-colors">
               <Github className="h-10 w-8 " />
             </a>
           </div>
