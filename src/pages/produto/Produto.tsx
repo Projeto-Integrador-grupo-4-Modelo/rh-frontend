@@ -185,7 +185,7 @@ const Product = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             <div className="bg-white/10 rounded-lg p-6 flex flex-col items-center justify-center hover:scale-105 transition-transform duration-300">
               <img
-                src="./c6-bank.png"
+                src="./src/assets/c6-bank.png"
                 alt="Logo c6 bank"
                 className="h-20 mb-4"
               />
