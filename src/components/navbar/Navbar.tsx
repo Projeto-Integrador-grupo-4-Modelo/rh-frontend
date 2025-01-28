@@ -18,14 +18,14 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
-            <Link to="/" className="flex items-center gap-5">
+            <Link to="/" className="flex items-center gap-2">
               <img
-                src="https://media.discordapp.net/attachments/1311370458414841927/1333827795763069048/logo2.png?ex=679a4f6f&is=6798fdef&hm=4c7d23ca3c1aca24c2217359f685cfafeb68f3a7c455e9bf7e3f27a7037c3159&=&format=webp&quality=lossless&width=445&height=385"
+                src="https://ik.imagekit.io/kjefwstje/logo%20site.png?updatedAt=1738082937945"
                 alt=""
-                className="w-24 ml-2"
+                className="w-[50px] ml-2"
               />
               <span className="ml-2 text-xl font-sans text-gray-900">
-                everony
+                ConectaRH
               </span>
             </Link>
           </div>
